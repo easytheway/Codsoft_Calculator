@@ -1,0 +1,28 @@
+html.body{
+    height: 100%;
+    width: 100%;
+}
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid #000000;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+    background-color: rgba(135, 207, 235, 0.126);
+}
+.row input{
+    width:291px;
+    margin: 0%;
+    font-size:20px ;
+    padding: 10px 0px;
+    border: 2px solid #000000;
+    border-radius: 9px;
+   
+} 
+.cal{
+   
+}
